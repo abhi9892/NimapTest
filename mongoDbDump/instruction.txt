@@ -1,0 +1,7 @@
+1.go to following location 
+   C:\Program Files\MongoDB\Server\4.2\bin 
+
+2.paste dump folder on this location 
+
+3.open terminal using this command to restore database
+  "mongorestore"
